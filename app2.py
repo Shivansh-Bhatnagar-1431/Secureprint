@@ -6,7 +6,7 @@ import io
 import os
 import subprocess
 import platform
-from PyPDF2 import PdfReader
+# from PyPDF2 import PdfReader
 import tempfile
 import threading
 from apscheduler.schedulers.background import BackgroundScheduler
